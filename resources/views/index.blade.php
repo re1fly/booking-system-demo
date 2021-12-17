@@ -96,7 +96,8 @@
                                                 <option value="" selected disabled>Permasalahan</option>
                                                 @forelse ($data['rooms'] as $room)
                                                     <option value="{{ $room->id }}" @if(old('room') == $room->id) selected @endif>
-                                                        {{ $room->room_type->name . ' - ' . $room->name }}
+{{--                                                        {{ $room->room_type->name . ' - ' . $room->name }}--}}
+                                                        {{ $room->room_type->name}}
                                                     </option>
                                                 @empty
                                                     <option value="" disabled>Belum ada ruangan yang tersedia</option>
