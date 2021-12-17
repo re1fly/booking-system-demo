@@ -85,7 +85,7 @@ return [
     | Html title for all pages.
     |
     */
-    'title' => 'Pinjam Ruang',
+    'title' => 'Technician Schedule',
 
     /*
     |--------------------------------------------------------------------------

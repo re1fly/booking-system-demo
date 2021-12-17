@@ -1,5 +1,5 @@
-<footer class="footer">
-    {{--<div class="container">
+{{--<footer class="footer">
+    <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-3 mb-md-0 mb-4">
                 <h2 class="footer-heading"><a href="#" class="logo">Pinjam Ruang</a></h2>
@@ -34,7 +34,7 @@
     <h2 class="footer-heading mt-5">Ikuti kami</h2>
     <ul class="ftco-footer-social p-0">
       <li class="ftco-animate"><a href="https://twitter.com/PolibatamPirung" target="_blank" data-toggle="tooltip" data-placement="top" title="Twitter"><span class="fa fa-twitter"></span></a></li>
-      --}}{{-- <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li> --}}{{--
+       <li class="ftco-animate"><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><span class="fa fa-facebook"></span></a></li>
       <li class="ftco-animate"><a href="https://www.instagram.com/polibatam.pinjamruang" target="_blank" data-toggle="tooltip" data-placement="top" title="Instagram"><span class="fa fa-instagram"></span></a></li>
     </ul>
             </div>
@@ -58,8 +58,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
       </div>
     </div>
         </div>
-    </div>--}}
-</footer>
+    </div>
+</footer>--}}
 
 
 
